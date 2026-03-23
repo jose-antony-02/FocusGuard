@@ -10,12 +10,12 @@ FocusGuard helps you break phone addiction by blocking distracting apps during f
 - ✅ Emergency override with 60-second penalty
 - ✅ Statistics dashboard with charts
 - ✅ Home screen widget
-- ✅ Android 15 compatibility (uses Accessibility Service)
+- ✅ Android compatibility (uses Accessibility Service)
 
 ## Permissions Required
 
 - **Device Admin**: Required to block apps at system level
-- **Accessibility Service**: Required for Android 15 app detection
+- **Accessibility Service**: Required for Android app detection
 - **Usage Stats**: For tracking blocked attempts
 
 ## Building the App
