@@ -1,6 +1,3 @@
-
-
-
 ## Anti-Addiction App for Android
 
 FocusGuard helps you break phone addiction by blocking distracting apps during focus times.
