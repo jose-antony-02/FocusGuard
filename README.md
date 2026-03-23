@@ -41,7 +41,7 @@ adb install app/build/outputs/apk/debug/app-debug.apk
 
 ## Status
 
-✅ Working on Android 15 with Accessibility Service support
+✅ Working on Android with Accessibility Service support
 
 ## License
 
