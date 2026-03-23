@@ -34,7 +34,7 @@ adb install app/build/outputs/apk/debug/app-debug.apk
 ## Tech Stack
 
 - Kotlin
-- Android SDK 35 (Android 15)
+- Android SDK 35 (Android)
 - Room Database
 - MPAndroidChart
 - Coroutines
