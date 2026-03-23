@@ -1,4 +1,4 @@
-# Create README
+
 echo "# FocusGuard
 
 ## Anti-Addiction App for Android
